@@ -84,6 +84,34 @@ end
 
 ```
 
+
+## Examples
+
+This SDK includes comprehensive examples demonstrating common use cases. Each example includes simple usage, advanced workflows, and error handling scenarios.
+
+### Quick Start Example
+
+```ruby
+# Ruby quick start example
+# See examples directory for full implementation
+```
+
+### Available Example Files
+
+- [Health Examples](./examples/health_check.rb)
+- [Payments Examples](./examples/payments.rb)
+- [Customers Examples](./examples/customers.rb)
+- [Invoices Examples](./examples/invoices.rb)
+- [Webhooks Examples](./examples/webhooks.rb)
+
+### Example Structure
+
+Each example file contains:
+- **Simple Examples**: Basic usage with minimal code
+- **Advanced Examples**: Complex workflows and best practices  
+- **Error Scenarios**: How to handle errors and edge cases
+
+For detailed examples, see the [examples directory](./examples/README.md).
 ## Documentation for API Endpoints
 
 All URIs are relative to *https://api.devdraft.ai*
